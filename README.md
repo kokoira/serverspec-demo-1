@@ -8,6 +8,6 @@ serverspec-demo-1は、Serverspecを使用して対象となるAWSのEC2イン�
   - EC2
   - RDS
 # 構成図
-![sample]()  
+![serverspec-demo-1](https://user-images.githubusercontent.com/95961416/151158333-90b57921-4f49-4ed0-a299-8ab187d98ff3.png) 
 # 特徴
 - テスト内容は、他リポジトリ「ansible-demo」の実行結果を確認するものとなっています。
